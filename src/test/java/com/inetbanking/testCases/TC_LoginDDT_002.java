@@ -11,7 +11,7 @@ public class TC_LoginDDT_002 extends BaseClass
 {
 
 	@Test(dataProvider="LoginData")
-	public void loginDDT(String user,String pwd) throws InterruptedException
+	public void loginDDT(String user,String pwd) throws InterruptedException, IOException
 	{
 		LoginPage lp=new LoginPage(driver);
 		lp.setUserName(user);
@@ -26,8 +26,9 @@ public class TC_LoginDDT_002 extends BaseClass
 		{
 			driver.switchTo().alert().accept();//close alert
 			driver.switchTo().defaultContent();
+			captureScreen(driver,"loginDDT");
 			Assert.assertTrue(false);
-			logger.warn("Login failed");
+			logger.info("Login failed");
 		}
 		else
 		{
