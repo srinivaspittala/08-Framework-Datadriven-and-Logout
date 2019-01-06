@@ -163,3 +163,26 @@
 2019-01-05 19:59:47,972 [main] INFO ebanking - user name provided
 2019-01-05 19:59:48,087 [main] INFO ebanking - password provided
 2019-01-05 19:59:53,414 [main] INFO ebanking - Login passed
+2019-01-06 07:14:56,027 [main] INFO ebanking - URL is Opened
+2019-01-06 07:14:58,784 [main] INFO ebanking - Entered Username
+2019-01-06 07:14:58,928 [main] INFO ebanking - Entered Password
+2019-01-06 07:15:01,803 [main] INFO ebanking - Clicked Submit Button
+2019-01-06 07:15:01,818 [main] INFO ebanking - Login test is Passed
+2019-01-06 07:15:12,511 [main] INFO ebanking - URL is Opened
+2019-01-06 07:15:12,749 [main] INFO ebanking - user name provided
+2019-01-06 07:15:12,945 [main] INFO ebanking - password provided
+2019-01-06 07:15:18,546 [main] INFO ebanking - Login passed
+2019-01-06 07:15:28,331 [main] INFO ebanking - URL is Opened
+2019-01-06 07:15:28,496 [main] INFO ebanking - user name provided
+2019-01-06 07:15:28,631 [main] INFO ebanking - password provided
+2019-01-06 07:15:37,549 [main] INFO ebanking - URL is Opened
+2019-01-06 07:15:37,735 [main] INFO ebanking - user name provided
+2019-01-06 07:15:37,848 [main] INFO ebanking - password provided
+2019-01-06 07:15:42,965 [main] INFO ebanking - Login passed
+2019-01-06 07:15:52,712 [main] INFO ebanking - URL is Opened
+2019-01-06 07:15:52,853 [main] INFO ebanking - user name provided
+2019-01-06 07:15:52,967 [main] INFO ebanking - password provided
+2019-01-06 07:16:01,485 [main] INFO ebanking - URL is Opened
+2019-01-06 07:16:01,694 [main] INFO ebanking - user name provided
+2019-01-06 07:16:01,799 [main] INFO ebanking - password provided
+2019-01-06 07:16:06,729 [main] INFO ebanking - Login passed
